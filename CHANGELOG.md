@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - upgraded symfony libs & PHP to version 8.4 [BC]
 
+### Fixed
+- Prefixed primary key with table name in referenced table
+
 ## [0.7.0] - 2025-12-05
 ### Added
 - Table alias in extension
